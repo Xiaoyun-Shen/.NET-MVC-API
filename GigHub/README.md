@@ -1,4 +1,4 @@
-﻿use the latest automapper version (AutoMapper .6.0.2 as of today):
+### Use the latest automapper version (AutoMapper .6.0.2 as of today):
 
 var config = new MapperConfiguration(cfg =>
               {
@@ -11,19 +11,13 @@ var config = new MapperConfiguration(cfg =>
             return notifications.Select(mapper.Map<Notification, NotificationDto>);
 
 
-animate.css
-bootstrap:popover
-
-moment.js
-
-bootbax.js
-
-_underscore.js
-
-less
-
-postman
-
-BootStrap Events
+- animate.css
+- bootstrap:popover
+- moment.js
+- bootbax.js
+- _underscore.js
+- less
+- postman
+- BootStrap Events
 
 
