@@ -1,4 +1,4 @@
-### Use the latest automapper version (AutoMapper .6.0.2 as of today):
+Use the latest automapper version (AutoMapper .6.0.2 as of today):
 
 var config = new MapperConfiguration(cfg =>
               {
