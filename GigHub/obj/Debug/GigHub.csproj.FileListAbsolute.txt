@@ -1,0 +1,573 @@
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\ApplicationInsights.config
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\roslyn\csc.exe
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\roslyn\vbc.exe
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\roslyn\VBCSCompiler.exe
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\GigHub.dll.config
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\GigHub.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\GigHub.pdb
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Antlr3.Runtime.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\EntityFramework.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\EntityFramework.SqlServer.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.AI.Web.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.ApplicationInsights.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.Owin.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Newtonsoft.Json.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Owin.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\System.Web.Helpers.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\System.Web.Mvc.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\System.Web.Optimization.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\System.Web.Razor.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\System.Web.WebPages.Deployment.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\System.Web.WebPages.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\System.Web.WebPages.Razor.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\WebGrease.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.AI.Web.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.ApplicationInsights.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\System.Web.Helpers.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\System.Web.Mvc.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\System.Web.Optimization.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\System.Web.Razor.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\System.Web.WebPages.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\System.Web.WebPages.Deployment.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\System.Web.WebPages.Razor.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Antlr3.Runtime.pdb
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Newtonsoft.Json.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\EntityFramework.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\EntityFramework.SqlServer.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.Owin.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\TinaShen\Desktop\GigHub\GigHub\obj\Debug\GigHub.csprojResolveAssemblyReference.cache
+C:\Users\TinaShen\Desktop\GigHub\GigHub\obj\Debug\GigHub.dll
+C:\Users\TinaShen\Desktop\GigHub\GigHub\obj\Debug\GigHub.pdb
+C:\Users\TinaShen\Desktop\GigHub\GigHub\obj\Debug\GigHub.Migrations.IntialModel.resources
+C:\Users\TinaShen\Desktop\GigHub\GigHub\obj\Debug\GigHub.csproj.GenerateResource.Cache
+C:\Users\TinaShen\Desktop\GigHub\GigHub\obj\Debug\GigHub.Migrations.CreateGigTable.resources
+C:\Users\TinaShen\Desktop\GigHub\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
+C:\Users\TinaShen\Desktop\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddNameToUser.resources
+G:\GigHub-almost-1 - Copy\GigHub\bin\ApplicationInsights.config
+G:\GigHub-almost-1 - Copy\GigHub\bin\roslyn\csc.exe
+G:\GigHub-almost-1 - Copy\GigHub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\GigHub-almost-1 - Copy\GigHub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\GigHub-almost-1 - Copy\GigHub\bin\roslyn\System.Collections.Immutable.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\roslyn\System.Reflection.Metadata.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\roslyn\vbc.exe
+G:\GigHub-almost-1 - Copy\GigHub\bin\roslyn\VBCSCompiler.exe
+G:\GigHub-almost-1 - Copy\GigHub\bin\roslyn\VBCSCompiler.exe.config
+G:\GigHub-almost-1 - Copy\GigHub\bin\GigHub.dll.config
+G:\GigHub-almost-1 - Copy\GigHub\bin\GigHub.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\GigHub.pdb
+G:\GigHub-almost-1 - Copy\GigHub\bin\Antlr3.Runtime.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\EntityFramework.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\EntityFramework.SqlServer.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.AI.Agent.Intercept.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.AI.DependencyCollector.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.AI.Web.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.AI.WindowsServer.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.ApplicationInsights.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.AspNet.Identity.Core.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.Owin.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.Owin.Security.Cookies.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.Owin.Security.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.Owin.Security.Facebook.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.Owin.Security.Google.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.Owin.Security.OAuth.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.Owin.Security.Twitter.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.Web.Infrastructure.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\Newtonsoft.Json.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\Owin.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\System.Web.Helpers.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\System.Web.Mvc.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\System.Web.Optimization.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\System.Web.Razor.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\System.Web.WebPages.Deployment.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\System.Web.WebPages.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\System.Web.WebPages.Razor.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\WebGrease.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.AI.DependencyCollector.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.AI.Web.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.AI.WindowsServer.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.ApplicationInsights.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\System.Web.Helpers.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\System.Web.Mvc.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\System.Web.Optimization.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\System.Web.Razor.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\System.Web.WebPages.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\System.Web.WebPages.Deployment.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\System.Web.WebPages.Razor.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\Antlr3.Runtime.pdb
+G:\GigHub-almost-1 - Copy\GigHub\bin\Newtonsoft.Json.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\EntityFramework.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\EntityFramework.SqlServer.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.AspNet.Identity.Core.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.Owin.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.Owin.Security.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.Owin.Security.Facebook.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.Owin.Security.Cookies.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.Owin.Security.OAuth.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.Owin.Security.Google.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.Owin.Security.Twitter.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\GigHub-almost-1 - Copy\GigHub\obj\Debug\GigHub.csprojResolveAssemblyReference.cache
+G:\GigHub-almost-1 - Copy\GigHub\obj\Debug\GigHub.Migrations.IntialModel.resources
+G:\GigHub-almost-1 - Copy\GigHub\obj\Debug\GigHub.Migrations.CreateGigTable.resources
+G:\GigHub-almost-1 - Copy\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
+G:\GigHub-almost-1 - Copy\GigHub\obj\Debug\GigHub.Migrations.AddNameToUser.resources
+G:\GigHub-almost-1 - Copy\GigHub\obj\Debug\GigHub.csproj.GenerateResource.Cache
+G:\GigHub-almost-1 - Copy\GigHub\obj\Debug\GigHub.dll
+G:\GigHub-almost-1 - Copy\GigHub\obj\Debug\GigHub.pdb
+G:\GigHub-almost-1 - Copy\GigHub\obj\Debug\GigHub.Migrations.AddAttendance.resources
+G:\GigHub-almost-1 - Copy\GigHub\bin\System.Net.Http.Formatting.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\System.Web.Http.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\System.Web.Http.WebHost.dll
+G:\GigHub-almost-1 - Copy\GigHub\bin\System.Net.Http.Formatting.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\System.Web.Http.xml
+G:\GigHub-almost-1 - Copy\GigHub\bin\System.Web.Http.WebHost.xml
+G:\GigHub-almost-1 - Copy\GigHub\obj\Debug\GigHub.Migrations.AddFollowing.resources
+G:\GigHub-2 - Copy\GigHub\obj\Debug\GigHub.csprojResolveAssemblyReference.cache
+G:\GigHub-2 - Copy\GigHub\obj\Debug\GigHub.Migrations.IntialModel.resources
+G:\GigHub-2 - Copy\GigHub\obj\Debug\GigHub.Migrations.CreateGigTable.resources
+G:\GigHub-2 - Copy\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
+G:\GigHub-2 - Copy\GigHub\obj\Debug\GigHub.Migrations.AddNameToUser.resources
+G:\GigHub-2 - Copy\GigHub\obj\Debug\GigHub.Migrations.AddAttendance.resources
+G:\GigHub-2 - Copy\GigHub\obj\Debug\GigHub.Migrations.AddFollowing.resources
+G:\GigHub-2 - Copy\GigHub\obj\Debug\GigHub.csproj.GenerateResource.Cache
+G:\GigHub-2 - Copy\GigHub\obj\Debug\GigHub.dll
+G:\GigHub-2 - Copy\GigHub\obj\Debug\GigHub.pdb
+G:\GigHub-2 - Copy\GigHub\bin\ApplicationInsights.config
+G:\GigHub-2 - Copy\GigHub\bin\roslyn\csc.exe
+G:\GigHub-2 - Copy\GigHub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\GigHub-2 - Copy\GigHub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\GigHub-2 - Copy\GigHub\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\GigHub-2 - Copy\GigHub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\GigHub-2 - Copy\GigHub\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\GigHub-2 - Copy\GigHub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\GigHub-2 - Copy\GigHub\bin\roslyn\System.Collections.Immutable.dll
+G:\GigHub-2 - Copy\GigHub\bin\roslyn\System.Reflection.Metadata.dll
+G:\GigHub-2 - Copy\GigHub\bin\roslyn\vbc.exe
+G:\GigHub-2 - Copy\GigHub\bin\roslyn\VBCSCompiler.exe
+G:\GigHub-2 - Copy\GigHub\bin\roslyn\VBCSCompiler.exe.config
+G:\GigHub-2 - Copy\GigHub\bin\GigHub.dll.config
+G:\GigHub-2 - Copy\GigHub\bin\GigHub.dll
+G:\GigHub-2 - Copy\GigHub\bin\GigHub.pdb
+G:\GigHub-2 - Copy\GigHub\bin\Antlr3.Runtime.dll
+G:\GigHub-2 - Copy\GigHub\bin\EntityFramework.dll
+G:\GigHub-2 - Copy\GigHub\bin\EntityFramework.SqlServer.dll
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.AI.Agent.Intercept.dll
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.AI.DependencyCollector.dll
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.AI.Web.dll
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.AI.WindowsServer.dll
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.ApplicationInsights.dll
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.AspNet.Identity.Core.dll
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.Owin.dll
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.Owin.Security.Cookies.dll
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.Owin.Security.dll
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.Owin.Security.Facebook.dll
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.Owin.Security.Google.dll
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.Owin.Security.OAuth.dll
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.Owin.Security.Twitter.dll
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.Web.Infrastructure.dll
+G:\GigHub-2 - Copy\GigHub\bin\Newtonsoft.Json.dll
+G:\GigHub-2 - Copy\GigHub\bin\Owin.dll
+G:\GigHub-2 - Copy\GigHub\bin\System.Net.Http.Formatting.dll
+G:\GigHub-2 - Copy\GigHub\bin\System.Web.Helpers.dll
+G:\GigHub-2 - Copy\GigHub\bin\System.Web.Http.dll
+G:\GigHub-2 - Copy\GigHub\bin\System.Web.Http.WebHost.dll
+G:\GigHub-2 - Copy\GigHub\bin\System.Web.Mvc.dll
+G:\GigHub-2 - Copy\GigHub\bin\System.Web.Optimization.dll
+G:\GigHub-2 - Copy\GigHub\bin\System.Web.Razor.dll
+G:\GigHub-2 - Copy\GigHub\bin\System.Web.WebPages.Deployment.dll
+G:\GigHub-2 - Copy\GigHub\bin\System.Web.WebPages.dll
+G:\GigHub-2 - Copy\GigHub\bin\System.Web.WebPages.Razor.dll
+G:\GigHub-2 - Copy\GigHub\bin\WebGrease.dll
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.AI.DependencyCollector.xml
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.AI.Web.xml
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.AI.WindowsServer.xml
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.ApplicationInsights.xml
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\GigHub-2 - Copy\GigHub\bin\System.Net.Http.Formatting.xml
+G:\GigHub-2 - Copy\GigHub\bin\System.Web.Http.xml
+G:\GigHub-2 - Copy\GigHub\bin\System.Web.Http.WebHost.xml
+G:\GigHub-2 - Copy\GigHub\bin\System.Web.Helpers.xml
+G:\GigHub-2 - Copy\GigHub\bin\System.Web.Mvc.xml
+G:\GigHub-2 - Copy\GigHub\bin\System.Web.Optimization.xml
+G:\GigHub-2 - Copy\GigHub\bin\System.Web.Razor.xml
+G:\GigHub-2 - Copy\GigHub\bin\System.Web.WebPages.xml
+G:\GigHub-2 - Copy\GigHub\bin\System.Web.WebPages.Deployment.xml
+G:\GigHub-2 - Copy\GigHub\bin\System.Web.WebPages.Razor.xml
+G:\GigHub-2 - Copy\GigHub\bin\Antlr3.Runtime.pdb
+G:\GigHub-2 - Copy\GigHub\bin\Newtonsoft.Json.xml
+G:\GigHub-2 - Copy\GigHub\bin\EntityFramework.xml
+G:\GigHub-2 - Copy\GigHub\bin\EntityFramework.SqlServer.xml
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.AspNet.Identity.Core.xml
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.Owin.xml
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.Owin.Security.xml
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.Owin.Security.Facebook.xml
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.Owin.Security.Cookies.xml
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.Owin.Security.OAuth.xml
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.Owin.Security.Google.xml
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.Owin.Security.Twitter.xml
+G:\GigHub-2 - Copy\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\ApplicationInsights.config
+G:\GigHub-1Complete - Copy\GigHub\bin\roslyn\csc.exe
+G:\GigHub-1Complete - Copy\GigHub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\GigHub-1Complete - Copy\GigHub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\GigHub-1Complete - Copy\GigHub\bin\roslyn\System.Collections.Immutable.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\roslyn\System.Reflection.Metadata.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\roslyn\vbc.exe
+G:\GigHub-1Complete - Copy\GigHub\bin\roslyn\VBCSCompiler.exe
+G:\GigHub-1Complete - Copy\GigHub\bin\roslyn\VBCSCompiler.exe.config
+G:\GigHub-1Complete - Copy\GigHub\bin\GigHub.dll.config
+G:\GigHub-1Complete - Copy\GigHub\bin\GigHub.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\GigHub.pdb
+G:\GigHub-1Complete - Copy\GigHub\bin\Antlr3.Runtime.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\EntityFramework.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\EntityFramework.SqlServer.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.AI.Agent.Intercept.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.AI.DependencyCollector.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.AI.Web.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.AI.WindowsServer.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.ApplicationInsights.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.AspNet.Identity.Core.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.Owin.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.Owin.Security.Cookies.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.Owin.Security.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.Owin.Security.Facebook.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.Owin.Security.Google.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.Owin.Security.OAuth.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.Owin.Security.Twitter.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.Web.Infrastructure.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\Newtonsoft.Json.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\Owin.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\System.Net.Http.Formatting.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\System.Web.Helpers.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\System.Web.Http.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\System.Web.Http.WebHost.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\System.Web.Mvc.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\System.Web.Optimization.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\System.Web.Razor.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\System.Web.WebPages.Deployment.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\System.Web.WebPages.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\System.Web.WebPages.Razor.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\WebGrease.dll
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.AI.DependencyCollector.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.AI.Web.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.AI.WindowsServer.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.ApplicationInsights.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\System.Net.Http.Formatting.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\System.Web.Http.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\System.Web.Http.WebHost.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\System.Web.Helpers.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\System.Web.Mvc.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\System.Web.Optimization.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\System.Web.Razor.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\System.Web.WebPages.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\System.Web.WebPages.Deployment.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\System.Web.WebPages.Razor.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\Antlr3.Runtime.pdb
+G:\GigHub-1Complete - Copy\GigHub\bin\Newtonsoft.Json.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\EntityFramework.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\EntityFramework.SqlServer.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.AspNet.Identity.Core.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.Owin.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.Owin.Security.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.Owin.Security.Facebook.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.Owin.Security.Cookies.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.Owin.Security.OAuth.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.Owin.Security.Google.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.Owin.Security.Twitter.xml
+G:\GigHub-1Complete - Copy\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\GigHub-1Complete - Copy\GigHub\obj\Debug\GigHub.csprojResolveAssemblyReference.cache
+G:\GigHub-1Complete - Copy\GigHub\obj\Debug\GigHub.Migrations.IntialModel.resources
+G:\GigHub-1Complete - Copy\GigHub\obj\Debug\GigHub.Migrations.CreateGigTable.resources
+G:\GigHub-1Complete - Copy\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
+G:\GigHub-1Complete - Copy\GigHub\obj\Debug\GigHub.Migrations.AddNameToUser.resources
+G:\GigHub-1Complete - Copy\GigHub\obj\Debug\GigHub.Migrations.AddAttendance.resources
+G:\GigHub-1Complete - Copy\GigHub\obj\Debug\GigHub.Migrations.AddFollowing.resources
+G:\GigHub-1Complete - Copy\GigHub\obj\Debug\GigHub.csproj.GenerateResource.Cache
+G:\GigHub-1Complete - Copy\GigHub\obj\Debug\GigHub.dll
+G:\GigHub-1Complete - Copy\GigHub\obj\Debug\GigHub.pdb
+G:\GigHub-2start\GigHub\bin\ApplicationInsights.config
+G:\GigHub-2start\GigHub\bin\roslyn\csc.exe
+G:\GigHub-2start\GigHub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\GigHub-2start\GigHub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\GigHub-2start\GigHub\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\GigHub-2start\GigHub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\GigHub-2start\GigHub\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\GigHub-2start\GigHub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\GigHub-2start\GigHub\bin\roslyn\System.Collections.Immutable.dll
+G:\GigHub-2start\GigHub\bin\roslyn\System.Reflection.Metadata.dll
+G:\GigHub-2start\GigHub\bin\roslyn\vbc.exe
+G:\GigHub-2start\GigHub\bin\roslyn\VBCSCompiler.exe
+G:\GigHub-2start\GigHub\bin\roslyn\VBCSCompiler.exe.config
+G:\GigHub-2start\GigHub\bin\GigHub.dll.config
+G:\GigHub-2start\GigHub\bin\GigHub.dll
+G:\GigHub-2start\GigHub\bin\GigHub.pdb
+G:\GigHub-2start\GigHub\bin\Antlr3.Runtime.dll
+G:\GigHub-2start\GigHub\bin\EntityFramework.dll
+G:\GigHub-2start\GigHub\bin\EntityFramework.SqlServer.dll
+G:\GigHub-2start\GigHub\bin\Microsoft.AI.Agent.Intercept.dll
+G:\GigHub-2start\GigHub\bin\Microsoft.AI.DependencyCollector.dll
+G:\GigHub-2start\GigHub\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\GigHub-2start\GigHub\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\GigHub-2start\GigHub\bin\Microsoft.AI.Web.dll
+G:\GigHub-2start\GigHub\bin\Microsoft.AI.WindowsServer.dll
+G:\GigHub-2start\GigHub\bin\Microsoft.ApplicationInsights.dll
+G:\GigHub-2start\GigHub\bin\Microsoft.AspNet.Identity.Core.dll
+G:\GigHub-2start\GigHub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\GigHub-2start\GigHub\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\GigHub-2start\GigHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\GigHub-2start\GigHub\bin\Microsoft.Owin.dll
+G:\GigHub-2start\GigHub\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\GigHub-2start\GigHub\bin\Microsoft.Owin.Security.Cookies.dll
+G:\GigHub-2start\GigHub\bin\Microsoft.Owin.Security.dll
+G:\GigHub-2start\GigHub\bin\Microsoft.Owin.Security.Facebook.dll
+G:\GigHub-2start\GigHub\bin\Microsoft.Owin.Security.Google.dll
+G:\GigHub-2start\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\GigHub-2start\GigHub\bin\Microsoft.Owin.Security.OAuth.dll
+G:\GigHub-2start\GigHub\bin\Microsoft.Owin.Security.Twitter.dll
+G:\GigHub-2start\GigHub\bin\Microsoft.Web.Infrastructure.dll
+G:\GigHub-2start\GigHub\bin\Newtonsoft.Json.dll
+G:\GigHub-2start\GigHub\bin\Owin.dll
+G:\GigHub-2start\GigHub\bin\System.Net.Http.Formatting.dll
+G:\GigHub-2start\GigHub\bin\System.Web.Helpers.dll
+G:\GigHub-2start\GigHub\bin\System.Web.Http.dll
+G:\GigHub-2start\GigHub\bin\System.Web.Http.WebHost.dll
+G:\GigHub-2start\GigHub\bin\System.Web.Mvc.dll
+G:\GigHub-2start\GigHub\bin\System.Web.Optimization.dll
+G:\GigHub-2start\GigHub\bin\System.Web.Razor.dll
+G:\GigHub-2start\GigHub\bin\System.Web.WebPages.Deployment.dll
+G:\GigHub-2start\GigHub\bin\System.Web.WebPages.dll
+G:\GigHub-2start\GigHub\bin\System.Web.WebPages.Razor.dll
+G:\GigHub-2start\GigHub\bin\WebGrease.dll
+G:\GigHub-2start\GigHub\bin\Microsoft.AI.DependencyCollector.xml
+G:\GigHub-2start\GigHub\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\GigHub-2start\GigHub\bin\Microsoft.AI.Web.xml
+G:\GigHub-2start\GigHub\bin\Microsoft.AI.WindowsServer.xml
+G:\GigHub-2start\GigHub\bin\Microsoft.ApplicationInsights.xml
+G:\GigHub-2start\GigHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\GigHub-2start\GigHub\bin\System.Net.Http.Formatting.xml
+G:\GigHub-2start\GigHub\bin\System.Web.Http.xml
+G:\GigHub-2start\GigHub\bin\System.Web.Http.WebHost.xml
+G:\GigHub-2start\GigHub\bin\System.Web.Helpers.xml
+G:\GigHub-2start\GigHub\bin\System.Web.Mvc.xml
+G:\GigHub-2start\GigHub\bin\System.Web.Optimization.xml
+G:\GigHub-2start\GigHub\bin\System.Web.Razor.xml
+G:\GigHub-2start\GigHub\bin\System.Web.WebPages.xml
+G:\GigHub-2start\GigHub\bin\System.Web.WebPages.Deployment.xml
+G:\GigHub-2start\GigHub\bin\System.Web.WebPages.Razor.xml
+G:\GigHub-2start\GigHub\bin\Antlr3.Runtime.pdb
+G:\GigHub-2start\GigHub\bin\Newtonsoft.Json.xml
+G:\GigHub-2start\GigHub\bin\EntityFramework.xml
+G:\GigHub-2start\GigHub\bin\EntityFramework.SqlServer.xml
+G:\GigHub-2start\GigHub\bin\Microsoft.AspNet.Identity.Core.xml
+G:\GigHub-2start\GigHub\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\GigHub-2start\GigHub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\GigHub-2start\GigHub\bin\Microsoft.Owin.xml
+G:\GigHub-2start\GigHub\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\GigHub-2start\GigHub\bin\Microsoft.Owin.Security.xml
+G:\GigHub-2start\GigHub\bin\Microsoft.Owin.Security.Facebook.xml
+G:\GigHub-2start\GigHub\bin\Microsoft.Owin.Security.Cookies.xml
+G:\GigHub-2start\GigHub\bin\Microsoft.Owin.Security.OAuth.xml
+G:\GigHub-2start\GigHub\bin\Microsoft.Owin.Security.Google.xml
+G:\GigHub-2start\GigHub\bin\Microsoft.Owin.Security.Twitter.xml
+G:\GigHub-2start\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\GigHub-2start\GigHub\obj\Debug\GigHub.csprojResolveAssemblyReference.cache
+G:\GigHub-2start\GigHub\obj\Debug\GigHub.Migrations.IntialModel.resources
+G:\GigHub-2start\GigHub\obj\Debug\GigHub.Migrations.CreateGigTable.resources
+G:\GigHub-2start\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
+G:\GigHub-2start\GigHub\obj\Debug\GigHub.Migrations.AddNameToUser.resources
+G:\GigHub-2start\GigHub\obj\Debug\GigHub.Migrations.AddAttendance.resources
+G:\GigHub-2start\GigHub\obj\Debug\GigHub.Migrations.AddFollowing.resources
+G:\GigHub-2start\GigHub\obj\Debug\GigHub.csproj.GenerateResource.Cache
+G:\GigHub-2start\GigHub\obj\Debug\GigHub.dll
+G:\GigHub-2start\GigHub\obj\Debug\GigHub.pdb
+G:\GigHub-2start\GigHub\obj\Debug\GigHub.Migrations.AddIsCanceledToGig.resources
+G:\GigHub-2start\GigHub\obj\Debug\GigHub.Migrations.AddNotification.resources
+G:\GigHub-2start\GigHub\obj\Debug\GigHub.Migrations.foo.resources
+G:\GigHub-2start\GigHub\bin\AutoMapper.dll
+G:\GigHub-2start\GigHub\bin\AutoMapper.xml
+G:\GigHub-2Complete\GigHub\bin\ApplicationInsights.config
+G:\GigHub-2Complete\GigHub\bin\roslyn\csc.exe
+G:\GigHub-2Complete\GigHub\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+G:\GigHub-2Complete\GigHub\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+G:\GigHub-2Complete\GigHub\bin\roslyn\Microsoft.CodeAnalysis.dll
+G:\GigHub-2Complete\GigHub\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+G:\GigHub-2Complete\GigHub\bin\roslyn\Microsoft.CSharp.Core.targets
+G:\GigHub-2Complete\GigHub\bin\roslyn\Microsoft.VisualBasic.Core.targets
+G:\GigHub-2Complete\GigHub\bin\roslyn\System.Collections.Immutable.dll
+G:\GigHub-2Complete\GigHub\bin\roslyn\System.Reflection.Metadata.dll
+G:\GigHub-2Complete\GigHub\bin\roslyn\vbc.exe
+G:\GigHub-2Complete\GigHub\bin\roslyn\VBCSCompiler.exe
+G:\GigHub-2Complete\GigHub\bin\roslyn\VBCSCompiler.exe.config
+G:\GigHub-2Complete\GigHub\bin\GigHub.dll.config
+G:\GigHub-2Complete\GigHub\bin\GigHub.dll
+G:\GigHub-2Complete\GigHub\bin\GigHub.pdb
+G:\GigHub-2Complete\GigHub\bin\Antlr3.Runtime.dll
+G:\GigHub-2Complete\GigHub\bin\AutoMapper.dll
+G:\GigHub-2Complete\GigHub\bin\EntityFramework.dll
+G:\GigHub-2Complete\GigHub\bin\EntityFramework.SqlServer.dll
+G:\GigHub-2Complete\GigHub\bin\Microsoft.AI.Agent.Intercept.dll
+G:\GigHub-2Complete\GigHub\bin\Microsoft.AI.DependencyCollector.dll
+G:\GigHub-2Complete\GigHub\bin\Microsoft.AI.PerfCounterCollector.dll
+G:\GigHub-2Complete\GigHub\bin\Microsoft.AI.ServerTelemetryChannel.dll
+G:\GigHub-2Complete\GigHub\bin\Microsoft.AI.Web.dll
+G:\GigHub-2Complete\GigHub\bin\Microsoft.AI.WindowsServer.dll
+G:\GigHub-2Complete\GigHub\bin\Microsoft.ApplicationInsights.dll
+G:\GigHub-2Complete\GigHub\bin\Microsoft.AspNet.Identity.Core.dll
+G:\GigHub-2Complete\GigHub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+G:\GigHub-2Complete\GigHub\bin\Microsoft.AspNet.Identity.Owin.dll
+G:\GigHub-2Complete\GigHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+G:\GigHub-2Complete\GigHub\bin\Microsoft.Owin.dll
+G:\GigHub-2Complete\GigHub\bin\Microsoft.Owin.Host.SystemWeb.dll
+G:\GigHub-2Complete\GigHub\bin\Microsoft.Owin.Security.Cookies.dll
+G:\GigHub-2Complete\GigHub\bin\Microsoft.Owin.Security.dll
+G:\GigHub-2Complete\GigHub\bin\Microsoft.Owin.Security.Facebook.dll
+G:\GigHub-2Complete\GigHub\bin\Microsoft.Owin.Security.Google.dll
+G:\GigHub-2Complete\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+G:\GigHub-2Complete\GigHub\bin\Microsoft.Owin.Security.OAuth.dll
+G:\GigHub-2Complete\GigHub\bin\Microsoft.Owin.Security.Twitter.dll
+G:\GigHub-2Complete\GigHub\bin\Microsoft.Web.Infrastructure.dll
+G:\GigHub-2Complete\GigHub\bin\Newtonsoft.Json.dll
+G:\GigHub-2Complete\GigHub\bin\Owin.dll
+G:\GigHub-2Complete\GigHub\bin\System.Net.Http.Formatting.dll
+G:\GigHub-2Complete\GigHub\bin\System.Web.Helpers.dll
+G:\GigHub-2Complete\GigHub\bin\System.Web.Http.dll
+G:\GigHub-2Complete\GigHub\bin\System.Web.Http.WebHost.dll
+G:\GigHub-2Complete\GigHub\bin\System.Web.Mvc.dll
+G:\GigHub-2Complete\GigHub\bin\System.Web.Optimization.dll
+G:\GigHub-2Complete\GigHub\bin\System.Web.Razor.dll
+G:\GigHub-2Complete\GigHub\bin\System.Web.WebPages.Deployment.dll
+G:\GigHub-2Complete\GigHub\bin\System.Web.WebPages.dll
+G:\GigHub-2Complete\GigHub\bin\System.Web.WebPages.Razor.dll
+G:\GigHub-2Complete\GigHub\bin\WebGrease.dll
+G:\GigHub-2Complete\GigHub\bin\AutoMapper.xml
+G:\GigHub-2Complete\GigHub\bin\Microsoft.AI.DependencyCollector.xml
+G:\GigHub-2Complete\GigHub\bin\Microsoft.AI.ServerTelemetryChannel.xml
+G:\GigHub-2Complete\GigHub\bin\Microsoft.AI.Web.xml
+G:\GigHub-2Complete\GigHub\bin\Microsoft.AI.WindowsServer.xml
+G:\GigHub-2Complete\GigHub\bin\Microsoft.ApplicationInsights.xml
+G:\GigHub-2Complete\GigHub\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+G:\GigHub-2Complete\GigHub\bin\System.Net.Http.Formatting.xml
+G:\GigHub-2Complete\GigHub\bin\System.Web.Http.xml
+G:\GigHub-2Complete\GigHub\bin\System.Web.Http.WebHost.xml
+G:\GigHub-2Complete\GigHub\bin\System.Web.Helpers.xml
+G:\GigHub-2Complete\GigHub\bin\System.Web.Mvc.xml
+G:\GigHub-2Complete\GigHub\bin\System.Web.Optimization.xml
+G:\GigHub-2Complete\GigHub\bin\System.Web.Razor.xml
+G:\GigHub-2Complete\GigHub\bin\System.Web.WebPages.xml
+G:\GigHub-2Complete\GigHub\bin\System.Web.WebPages.Deployment.xml
+G:\GigHub-2Complete\GigHub\bin\System.Web.WebPages.Razor.xml
+G:\GigHub-2Complete\GigHub\bin\Antlr3.Runtime.pdb
+G:\GigHub-2Complete\GigHub\bin\Newtonsoft.Json.xml
+G:\GigHub-2Complete\GigHub\bin\EntityFramework.xml
+G:\GigHub-2Complete\GigHub\bin\EntityFramework.SqlServer.xml
+G:\GigHub-2Complete\GigHub\bin\Microsoft.AspNet.Identity.Core.xml
+G:\GigHub-2Complete\GigHub\bin\Microsoft.AspNet.Identity.Owin.xml
+G:\GigHub-2Complete\GigHub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+G:\GigHub-2Complete\GigHub\bin\Microsoft.Owin.xml
+G:\GigHub-2Complete\GigHub\bin\Microsoft.Owin.Host.SystemWeb.xml
+G:\GigHub-2Complete\GigHub\bin\Microsoft.Owin.Security.xml
+G:\GigHub-2Complete\GigHub\bin\Microsoft.Owin.Security.Facebook.xml
+G:\GigHub-2Complete\GigHub\bin\Microsoft.Owin.Security.Cookies.xml
+G:\GigHub-2Complete\GigHub\bin\Microsoft.Owin.Security.OAuth.xml
+G:\GigHub-2Complete\GigHub\bin\Microsoft.Owin.Security.Google.xml
+G:\GigHub-2Complete\GigHub\bin\Microsoft.Owin.Security.Twitter.xml
+G:\GigHub-2Complete\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+G:\GigHub-2Complete\GigHub\obj\Debug\GigHub.csprojResolveAssemblyReference.cache
+G:\GigHub-2Complete\GigHub\obj\Debug\GigHub.Migrations.IntialModel.resources
+G:\GigHub-2Complete\GigHub\obj\Debug\GigHub.Migrations.CreateGigTable.resources
+G:\GigHub-2Complete\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
+G:\GigHub-2Complete\GigHub\obj\Debug\GigHub.Migrations.AddNameToUser.resources
+G:\GigHub-2Complete\GigHub\obj\Debug\GigHub.Migrations.AddAttendance.resources
+G:\GigHub-2Complete\GigHub\obj\Debug\GigHub.Migrations.AddFollowing.resources
+G:\GigHub-2Complete\GigHub\obj\Debug\GigHub.Migrations.AddIsCanceledToGig.resources
+G:\GigHub-2Complete\GigHub\obj\Debug\GigHub.Migrations.AddNotification.resources
+G:\GigHub-2Complete\GigHub\obj\Debug\GigHub.Migrations.foo.resources
+G:\GigHub-2Complete\GigHub\obj\Debug\GigHub.csproj.GenerateResource.Cache
+G:\GigHub-2Complete\GigHub\obj\Debug\GigHub.csproj.CoreCompileInputs.cache
+G:\GigHub-2Complete\GigHub\obj\Debug\GigHub.dll
+G:\GigHub-2Complete\GigHub\obj\Debug\GigHub.pdb
